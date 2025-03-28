@@ -4,7 +4,6 @@ import AddTodoForm from './pages/AddToDoForm';
 import TodoList from './pages/ToDoList';
 import TotalCompleteItems from './pages/TotalCompleteItems';
 
-
 const App = () => {
 	return (
 		<div className='container bg-white p-4 mt-5'>

@@ -12,3 +12,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: lightblue !important;
 }
+
+.icon {
+  margin-left: 0;
+  margin-right: 5px;
+}
