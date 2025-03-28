@@ -1,5 +1,4 @@
 import { configureStore } from '@reduxjs/toolkit';
-import { todoSlice } from './todoSlice';
 import ToDoReducer from './ToDoSlice'
 
 import React from 'react'

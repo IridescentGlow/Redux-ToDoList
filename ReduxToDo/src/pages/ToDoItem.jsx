@@ -1,6 +1,6 @@
 import React from 'react';
 
-const TodoItem = ({ id, title, completed }) => {
+function TodoItem ({ id, title, completed }) {
 	return (
 		<li className={`list-group-item ${completed && 'list-group-item-success'}`}>
 			<div className='d-flex justify-content-between'>
