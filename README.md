@@ -1,6 +1,6 @@
 # 📝 Redux To-Do List
 
-A simple and elegant To-Do List application built with **React**, **Redux**, and **Bootstrap**. This project demonstrates state management using Redux and a clean, responsive UI for managing tasks.
+A simple To-Do List application built with **React**, **Redux**, and **Bootstrap**. This project demonstrates state management using Redux.
 
 ## 🚀 Features
 
