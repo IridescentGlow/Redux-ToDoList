@@ -80,13 +80,6 @@ ReduxToDo/
 
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
 ## 📧 Contact
 
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
----
-Made with ❤️ by [Your Name]
+For any inquiries or feedback, please reach out to [your-email@example.com](mailto:edible843@example.com).
