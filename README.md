@@ -20,7 +20,7 @@ A simple To-Do List application built with **React**, **Redux**, and **Bootstrap
 
 ## 📸 Screenshots
 
-![App Screenshot](./assets/images/screenshot.png)
+![App Screenshot](./ReduxToDo/src/assets/images/screenshot.png)
 
 ## 🧑‍💻 Getting Started
 
