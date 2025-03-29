@@ -1,6 +1,6 @@
 # 📝 Redux To-Do List
 
-A simple and elegant To-Do List application built with **React**, **Redux**, and **Bootstrap**. This project demonstrates state management using Redux and a clean, responsive UI for managing tasks.
+A simple To-Do List application built with **React**, **Redux**, and **Bootstrap**. This project demonstrates state management using Redux.
 
 ## 🚀 Features
 
@@ -20,7 +20,7 @@ A simple and elegant To-Do List application built with **React**, **Redux**, and
 
 ## 📸 Screenshots
 
-![App Screenshot](./assets/images/screenshot.png)
+![App Screenshot](./ReduxToDo/assets/images/screenshot.png)
 
 ## 🧑‍💻 Getting Started
 
@@ -80,13 +80,6 @@ ReduxToDo/
 
 Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
 ## 📧 Contact
 
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
-
----
-Made with ❤️ by [Your Name]
+For any inquiries or feedback, please reach out to [edible843@example.com](mailto:edible843@example.com).
