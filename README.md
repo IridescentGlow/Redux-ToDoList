@@ -82,4 +82,4 @@ Contributions are welcome! If you'd like to improve this project, feel free to f
 
 ## 📧 Contact
 
-For any inquiries or feedback, please reach out to [your-email@example.com](mailto:edible843@example.com).
+For any inquiries or feedback, please reach out to [edible843@example.com](mailto:edible843@example.com).
